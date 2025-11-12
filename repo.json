@@ -20,7 +20,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/moonshadow.ico",
+    "IconUrl": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/images/icon.png",
     "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/latest/download/MoonshadowTarotReader.zip",
     "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/latest/download/MoonshadowTarotReader.zip",
     "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/latest/download/MoonshadowTarotReader.zip"
