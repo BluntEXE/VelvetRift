@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Dalamud.NET.Sdk/13.1.0">
   <PropertyGroup>
+    <AssemblyName>MoonshadowTarotReader</AssemblyName>
     <Version>1.0.0.0</Version>
     <Description>Moonshadow's Tarot Reader - FFXIV-themed tarot readings with AI interpretations</Description>
     <PackageProjectUrl>https://github.com/BluntEXE/VelvetRift</PackageProjectUrl>
