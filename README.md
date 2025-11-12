@@ -1,6 +1,14 @@
 # VelvetRift - Moonshadow's Tarot Reader
 
+[![Latest Release](https://img.shields.io/github/v/release/BluntEXE/VelvetRift)](https://github.com/BluntEXE/VelvetRift/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/BluntEXE/VelvetRift/total)](https://github.com/BluntEXE/VelvetRift/releases)
+
 A Dalamud plugin for Final Fantasy XIV that provides FFXIV-themed tarot card readings with AI-generated interpretations.
+
+**Custom Repository URL:**
+```
+https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/repo.json
+```
 
 ## Features
 
@@ -14,23 +22,28 @@ A Dalamud plugin for Final Fantasy XIV that provides FFXIV-themed tarot card rea
 
 ## Installation
 
+### Quick Install (Recommended)
+
+Add the custom plugin repository to Dalamud:
+
+1. In FFXIV, type `/xlsettings`
+2. Go to **Experimental** tab
+3. Add this URL to **Custom Plugin Repositories**:
+   ```
+   https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/repo.json
+   ```
+4. Click **Save**, then type `/xlplugins`
+5. Search for **"Moonshadow's Tarot Reader"** and install
+
+**📖 Full installation guide:** [INSTALLATION.md](INSTALLATION.md)
+
 ### Prerequisites
 
-1. **XIVLauncher** with Dalamud installed
-2. **Ollama** running locally with a model downloaded:
-   ```bash
-   ollama pull mistral
-   # or
-   ollama pull llama2
-   ollama pull gemma
-   ```
-
-### Install Plugin
-
-1. Download the latest release
-2. Extract to: `%APPDATA%\XIVLauncher\devPlugins\MoonshadowTarotReader\`
-3. Enable dev plugin locations in Dalamud settings
-4. Restart FFXIV or reload plugins with `/xlplugins`
+**Ollama** - Required for AI interpretations:
+```bash
+ollama pull mistral
+ollama serve
+```
 
 ## Usage
 

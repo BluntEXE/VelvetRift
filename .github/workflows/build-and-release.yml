@@ -1,0 +1,60 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - master
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore SamplePlugin/MoonshadowTarotReader.sln
+
+      - name: Build plugin
+        run: dotnet build SamplePlugin/MoonshadowTarotReader.sln --configuration Release --no-restore
+
+      - name: Package plugin
+        run: |
+          mkdir -p release
+          cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.dll release/
+          cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.json release/
+          cp SamplePlugin/SamplePlugin/bin/x64/Release/cards.json release/
+          cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.pdb release/
+        shell: bash
+
+      - name: Create zip archive
+        run: |
+          cd release
+          7z a ../MoonshadowTarotReader.zip *
+        shell: bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MoonshadowTarotReader
+          path: MoonshadowTarotReader.zip
+
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v1
+        with:
+          files: MoonshadowTarotReader.zip
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
