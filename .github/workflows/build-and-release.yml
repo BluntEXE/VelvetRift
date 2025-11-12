@@ -39,7 +39,6 @@ jobs:
           cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.dll release/
           cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.json release/
           cp SamplePlugin/SamplePlugin/bin/x64/Release/cards.json release/
-          cp SamplePlugin/SamplePlugin/bin/x64/Release/MoonshadowTarotReader.pdb release/
         shell: bash
 
       - name: Create zip archive
