@@ -1,0 +1,14 @@
+{
+  "Author": "Ehno",
+  "Name": "Moonshadow's Tarot Reader",
+  "Punchline": "FFXIV-themed tarot readings with AI-generated interpretations",
+  "Description": "A mystical tarot card reader for FFXIV roleplay. Draw single cards or three-card spreads with AI-powered interpretations in Eorzean, Chaos, or Maternal modes. Uses Ollama for local LLM generation. Use /tarot to open.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "tarot",
+    "roleplay",
+    "ffxiv",
+    "ai",
+    "divination"
+  ]
+}

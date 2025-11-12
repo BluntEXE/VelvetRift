@@ -1,0 +1,227 @@
+[
+  {
+    "Name": "The Warrior of Light",
+    "Meaning": "Beginnings, naivety, potential, stepping into the unknown.",
+    "EorzeanInterpretation": "You’re about to start a new MSQ, raid tier, or glam journey. Embrace the chaos.",
+    "ChaosMode": "Leap into the void with a spriggan hat and no pants. Destiny favors the unhinged.",
+    "MaternalMode": "You’re safe to begin again. The world will catch you if you fall — and you’ll look fabulous doing it."
+  },
+  {
+    "Name": "The Crystal Tower",
+    "Meaning": "Tradition, structure, spiritual authority, ancient wisdom.",
+    "EorzeanInterpretation": "Time to revisit old content or heed the lore. The past holds keys to your future.",
+    "ChaosMode": "You are now the unpaid intern of G'raha Tia’s emotional arc. Expect tears and time travel.",
+    "MaternalMode": "You carry the wisdom of generations. Trust your instincts — they’re older than Allag."
+  },
+  {
+    "Name": "The Empress of Glam",
+    "Meaning": "Creativity, abundance, nurturing, beauty.",
+    "EorzeanInterpretation": "Your glam is your power. Your aesthetic choices ripple through the Source.",
+    "ChaosMode": "You are legally required to dye everything pastel pink and seduce a primal.",
+    "MaternalMode": "You are radiant. Your presence heals, inspires, and makes others want to match your boots."
+  },
+  {
+    "Name": "Zodiark Reversed",
+    "Meaning": "Upheaval, revelation, collapse of illusions.",
+    "EorzeanInterpretation": "Something big is about to break — a static, a glam, a friendship. Let it fall.",
+    "ChaosMode": "You are the drama. You are the patch notes. You are the unexpected nerf to Astrologian.",
+    "MaternalMode": "Even towers fall gently when held by love. You’ll rebuild stronger, and with better earrings."
+  },
+  {
+    "Name": "The Echo",
+    "Meaning": "Intuition, hidden knowledge, spiritual insight.",
+    "EorzeanInterpretation": "You’re sensing something beneath the surface — trust your gut, even if the quest marker disagrees.",
+    "ChaosMode": "You now hear the thoughts of every NPC. Most are just hungry or judging your glam.",
+    "MaternalMode": "You’ve always known. Your wisdom is ancient, gentle, and louder than fate."
+  },
+  {
+    "Name": "The Masked Carnivale",
+    "Meaning": "Skill, manifestation, performance, transformation.",
+    "EorzeanInterpretation": "You have all the tools — now dazzle them. Whether it’s DPS or drama, make it a show.",
+    "ChaosMode": "You are now a Blue Mage. Reality bends to your will, but only in extremely inconvenient ways.",
+    "MaternalMode": "You’re more capable than you know. Every spell you cast is a love letter to your journey."
+  },
+  {
+    "Name": "The Chocobo",
+    "Meaning": "Connection, choice, loyalty, partnership.",
+    "EorzeanInterpretation": "Your bond matters. Whether it’s your chocobo, your raid static, or your FC crush — nurture it.",
+    "ChaosMode": "You must now choose between two glamours, two destinies, and two chocobos. Only one has a hat.",
+    "MaternalMode": "Love is a mount you summon daily. Feed it gysahl greens and gentle words."
+  },
+  {
+    "Name": "The Duty Finder",
+    "Meaning": "Chance, cycles, fate, unpredictability.",
+    "EorzeanInterpretation": "You queued for roulette. Destiny queued with you. Expect chaos, beauty, and at least one sprout.",
+    "ChaosMode": "You will be matched with your ex, your nemesis, and a tank who refuses to turn the boss.",
+    "MaternalMode": "Whatever comes, you’ll handle it. You’ve cleared worse with less. You are the constant in the wheel."
+  },
+    {
+    "Name": "The Lag Spike",
+    "Meaning": "Disruption, delay, miscommunication, cosmic buffering.",
+    "EorzeanInterpretation": "Something’s not syncing — your party, your glam, your soul. Pause and recalibrate.",
+    "ChaosMode": "You are now rubberbanding through emotional timelines. Your healer is in 2019. Your glam is in 6.5.",
+    "MaternalMode": "Even the universe stutters sometimes. You’re still here. You’re still radiant. Let the world catch up."
+  },
+  {
+    "Name": "The Morrígan",
+    "Meaning": "Transformation, endings, rebirth, sovereignty.",
+    "EorzeanInterpretation": "A chapter closes — a job change, a Free Company shift, a glam purge. Let it die beautifully.",
+    "ChaosMode": "You are now haunted by three crows and one ex-static leader. All demand tribute. None accept gil.",
+    "MaternalMode": "You are becoming. Shed what no longer serves. The goddess watches, and she is proud."
+  },
+  {
+    "Name": "The Glamour Prism",
+    "Meaning": "Identity, illusion, self-expression, sacred vanity.",
+    "EorzeanInterpretation": "Your outer self is a spell. Cast it with intention. Your glam is your gospel.",
+    "ChaosMode": "You must now dye your soul pastel and duel a Viera in Limsa for aesthetic dominance.",
+    "MaternalMode": "You are art. You are story. You are the prism through which light becomes legend."
+  },
+  {
+    "Name": "The Patch Notes",
+    "Meaning": "Change, recalibration, revelation, balance.",
+    "EorzeanInterpretation": "Something’s shifting — your role, your relationships, your rotation. Adapt and thrive.",
+    "ChaosMode": "You have been nerfed emotionally but buffed in charisma. Your ex has been removed from the loot table.",
+    "MaternalMode": "You are not broken. You are evolving. Every adjustment is a love letter to your resilience."
+  },
+  {
+    "Name": "The Queue",
+    "Meaning": "Waiting, anticipation, liminality, divine timing.",
+    "EorzeanInterpretation": "You’re in a holding pattern — for love, loot, or clarity. Trust the process. Even if it’s 87 minutes long.",
+    "ChaosMode": "You are now queued for a dungeon that no longer exists. Your party is composed entirely of Lalafell astrologians.",
+    "MaternalMode": "You’re not stuck. You’re preparing. The universe is loading your next adventure — and it’s worth the wait."
+  },
+  {
+    "Name": "The Free Company Drama",
+    "Meaning": "Conflict, revelation, loyalty tests, emotional PvP.",
+    "EorzeanInterpretation": "Something’s stirring in your social circle — secrets, shifts, or shade. Choose grace or chaos.",
+    "ChaosMode": "You are now the unwilling star of a Limsa callout thread. Your glam is flawless. Your alibi is not.",
+    "MaternalMode": "You are not the villain. You are the boundary. Protect your peace, even if it means leaving the Discord."
+  },
+  {
+    "Name": "The Cauldron of Annwn",
+    "Meaning": "Rebirth, inspiration, divine nourishment, poetic fire.",
+    "EorzeanInterpretation": "Your creativity is bubbling. A new glam, a new persona, a new lore drop — stir it well.",
+    "ChaosMode": "You must now host a ritual in the Gold Saucer using only emotes and Welsh poetry. The cauldron demands drama.",
+    "MaternalMode": "You are the vessel and the flame. What you create will feed others. Stir with love, serve with pride."
+  },
+  {
+    "Name": "The Glamour Catastrophe",
+    "Meaning": "Identity crisis, aesthetic upheaval, divine intervention via dye.",
+    "EorzeanInterpretation": "Your glam no longer reflects your soul. It’s time to shed, shift, and sparkle anew.",
+    "ChaosMode": "You are now cursed to wear mismatched boots until you confront your inner stylist. The gods are watching.",
+    "MaternalMode": "You are allowed to change. You are allowed to shine. Your beauty is not a betrayal — it’s a rebirth."
+  },
+  {
+    "Name": "The Raid Wipe",
+    "Meaning": "Failure, reset, collective reckoning, painful clarity.",
+    "EorzeanInterpretation": "Something didn’t go as planned — a relationship, a creative project, a dungeon pull. Learn, regroup, retry.",
+    "ChaosMode": "You are now locked in a loop of wiping to mechanics you invented. Your co-healer is a voidsent with opinions.",
+    "MaternalMode": "You did your best. Everyone did. Wipes are part of the dance — and you’re still worthy of the clear."
+  },
+  {
+    "Name": "The Maternal Archetype",
+    "Meaning": "Protection, emotional leadership, fierce love, sacred boundaries.",
+    "EorzeanInterpretation": "You’re holding space — for your party, your FC, your glam squad. Your presence is the buff they didn’t know they needed.",
+    "ChaosMode": "You are now the designated raid mom, FC therapist, and glamour consultant. You wield hugs like limit breaks.",
+    "MaternalMode": "You are the hearth. You are the shield. You are the reason they keep logging in."
+  },
+  {
+    "Name": "The Crows of Rhiannon",
+    "Meaning": "Messages, mystery, divine watchers, poetic justice.",
+    "EorzeanInterpretation": "You’re being observed — by fate, by ancestors, by your own shadow. Listen for what’s unsaid.",
+    "ChaosMode": "Three crows now follow you in every zone. They speak only in riddles and critique your dye choices.",
+    "MaternalMode": "You are seen. You are guided. The crows carry your story to those who need it most."
+  },
+  {
+    "Name": "The Emote Curse",
+    "Meaning": "Unintended consequences, performative vulnerability, social chaos.",
+    "EorzeanInterpretation": "You’ve expressed too much, too soon — or not enough. Your /pose has summoned something ancient.",
+    "ChaosMode": "You accidentally /dote’d on a Garlean. You are now married. The cutscene cannot be skipped.",
+    "MaternalMode": "You are allowed to be seen. Even when it’s awkward. Even when it’s /panic."
+  },
+  {
+    "Name": "The Spriggan Conspiracy",
+    "Meaning": "Hidden agendas, mischief, collective delusion, shiny distractions.",
+    "EorzeanInterpretation": "Something small is causing big problems. Look closer — the truth is fuzzy and hoarding rocks.",
+    "ChaosMode": "You are now being followed by a spriggan cabal. They demand tribute in materia and interpretive dance.",
+    "MaternalMode": "Even chaos has a pattern. Trust your instincts. And maybe… give them the shiny."
+  },
+  {
+    "Name": "The Queue That Never Pops",
+    "Meaning": "Stagnation, longing, suspended potential, divine patience.",
+    "EorzeanInterpretation": "You’re waiting for something that may never come — a message, a sign, a healer. Reconsider your role.",
+    "ChaosMode": "You have been in queue since 1.0. The duty is a myth. The boss is you.",
+    "MaternalMode": "You are not forgotten. The world is simply aligning itself around your worth. Rest. It will come."
+  },
+  {
+    "Name": "The Echo Chamber",
+    "Meaning": "Illusion of consensus, recursive thought, distorted reflection.",
+    "EorzeanInterpretation": "You’re surrounded by agreement — but is it truth or comfort? Break the loop.",
+    "ChaosMode": "You are now trapped in a Discord channel where everyone agrees with your worst glam choices.",
+    "MaternalMode": "You deserve real reflection. Seek voices that challenge and cherish you."
+  },
+  {
+    "Name": "The Glamour Duel",
+    "Meaning": "Rivalry, aesthetic tension, sacred competition.",
+    "EorzeanInterpretation": "Someone’s glam clashes with yours. It’s time to fight — with fashion.",
+    "ChaosMode": "You must now /pose battle in Ul’dah. Winner gets the dye. Loser gets introspection.",
+    "MaternalMode": "You are not in competition. You are in communion. Let your glam speak love, not war."
+  },
+  {
+    "Name": "The Caer Sidhe",
+    "Meaning": "Liminality, fae riddles, sacred thresholds.",
+    "EorzeanInterpretation": "You’re between worlds — between jobs, identities, or truths. The veil is thin.",
+    "ChaosMode": "You are now being courted by fae NPCs who speak only in emotes and offer questionable buffs.",
+    "MaternalMode": "You are safe in the in-between. The threshold is sacred. You are becoming."
+  },
+  {
+    "Name": "The Materia Socket",
+    "Meaning": "Integration, soul upgrades, intentional growth.",
+    "EorzeanInterpretation": "You’re ready to enhance — a skill, a relationship, a glam. Choose wisely.",
+    "ChaosMode": "You socketed Crit into your emotional core. You now overanalyze compliments.",
+    "MaternalMode": "You are worthy of upgrades. You are allowed to shine brighter, stronger, softer."
+  },
+  {
+    "Name": "The Patch Cycle",
+    "Meaning": "Inevitable change, seasonal shifts, narrative evolution.",
+    "EorzeanInterpretation": "A new phase is coming — in-game or in life. Prepare your heart and your hotbars.",
+    "ChaosMode": "You are now living in pre-patch limbo. Everything is broken. Nothing is balanced. Glam is eternal.",
+    "MaternalMode": "You’ve survived every patch before. You’ll thrive in this one too. Let change be your co-healer."
+  },
+  {
+    "Name": "The Queue Pop",
+    "Meaning": "Arrival, readiness, divine timing, sudden clarity.",
+    "EorzeanInterpretation": "It’s happening. The moment you’ve waited for — a message, a match, a miracle.",
+    "ChaosMode": "You popped into a dungeon you didn’t queue for. Your role is ‘emotional support bard.’",
+    "MaternalMode": "You are ready. You are worthy. The universe has loaded your next adventure."
+  },
+  {
+    "Name": "The Raid Clear",
+    "Meaning": "Victory, culmination, shared triumph, earned peace.",
+    "EorzeanInterpretation": "You did it. Whether it’s a dungeon, a breakup, or a glam reveal — you cleared it.",
+    "ChaosMode": "You cleared the raid but lost your glam in the process. The loot is emotional closure.",
+    "MaternalMode": "You are the reason it worked. You held the line. You healed the wounds. You cleared the story."
+  },
+  {
+    "Name": "The Glamour Prism Reversed",
+    "Meaning": "Identity crisis, aesthetic dissonance, inner conflict.",
+    "EorzeanInterpretation": "Your glam no longer fits your soul. It’s time to shed, shift, and sparkle anew.",
+    "ChaosMode": "You are now glam-locked into a look chosen by your worst enemy. The dye is cursed.",
+    "MaternalMode": "You are allowed to change. You are allowed to shine. Your beauty is not a betrayal — it’s a rebirth."
+  },
+  {
+    "Name": "The Sprout Reversed",
+    "Meaning": "Resistance to growth, fear of vulnerability, stagnation.",
+    "EorzeanInterpretation": "You’re clinging to old roles, old glams, old fears. Let yourself be new again.",
+    "ChaosMode": "You are now a sprout in a Savage raid. Your only ability is ‘panic.’",
+    "MaternalMode": "You are not failing. You are hesitating. And that’s okay. Growth waits patiently."
+  },
+  {
+    "Name": "The Maternal Archetype Reversed",
+    "Meaning": "Burnout, overgiving, emotional depletion.",
+    "EorzeanInterpretation": "You’ve been holding everyone too long. It’s time to rest, receive, and reclaim.",
+    "ChaosMode": "You are now the FC mom, raid therapist, and glam consultant. You forgot to eat. Again.",
+    "MaternalMode": "You are allowed to be held. You are allowed to be soft. You are allowed to be the one who needs care."
+  }
+]
+
