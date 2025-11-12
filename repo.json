@@ -15,7 +15,7 @@
       "ai",
       "divination"
     ],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
