@@ -24,5 +24,31 @@
     "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip",
     "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip",
     "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip"
+  },
+  {
+    "Author": "Ehno",
+    "Name": "Eorzean Degeneracy",
+    "Punchline": "Because even Lalafells deserve bad jokes.",
+    "Description": "A Cards Against Humanity–style party game for FFXIV, built for degenerates of Eorzea. Play with friends, laugh at absurd prompts, and embrace the chaos. Major slash-commands: /deg start to start a game",
+    "InternalName": "EorzeanDegeneracy",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "ffxiv",
+      "cards",
+      "party",
+      "degeneracy",
+      "plugin"
+    ],
+    "DalamudApiLevel": 13,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/images/eorzean-degeneracy-icon.png",
+    "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip",
+    "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip",
+    "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip"
   }
 ]
