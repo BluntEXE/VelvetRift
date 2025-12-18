@@ -3,7 +3,7 @@
 A collection of Dalamud plugins for Final Fantasy XIV, focused on roleplay, social activities, and entertainment at venues.
 
 [![Repository](https://img.shields.io/badge/Repository-VelvetRift-blueviolet)](https://github.com/BluntEXE/VelvetRift)
-[![Dalamud](https://img.shields.io/badge/Dalamud-API%2013-blue)](https://dalamud.dev)
+[![Dalamud](https://img.shields.io/badge/Dalamud-API%2014-blue)](https://dalamud.dev)
 [![License](https://img.shields.io/badge/License-See%20Individual%20Plugins-lightgrey)](#)
 
 ---
