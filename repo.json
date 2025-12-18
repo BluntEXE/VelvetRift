@@ -5,7 +5,7 @@
     "Punchline": "FFXIV-themed tarot readings with AI-generated interpretations",
     "Description": "A mystical tarot card reader for FFXIV roleplay. Draw single cards or three-card spreads with AI-powered interpretations in Eorzean, Chaos, or Maternal modes. Uses Ollama for local LLM generation. Use /tarot to open.",
     "InternalName": "MoonshadowTarotReader",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
     "ApplicableVersion": "any",
     "Tags": [
@@ -21,17 +21,17 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip",
-    "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip",
-    "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.4/MoonshadowTarotReader.zip"
+    "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.5/MoonshadowTarotReader.zip",
+    "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.5/MoonshadowTarotReader.zip",
+    "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v1.0.5/MoonshadowTarotReader.zip"
   },
   {
     "Author": "Ehno",
     "Name": "Eorzean Degeneracy",
     "Punchline": "Because even Lalafells deserve bad jokes.",
-    "Description": "A Cards Against Humanity–style party game for FFXIV, built for degenerates of Eorzea. Play with friends, laugh at absurd prompts, and embrace the chaos. Major slash-commands: /deg start to start a game",
+    "Description": "A Cards Against Humanity-style party game for FFXIV, built for degenerates of Eorzea. Play with friends, laugh at absurd prompts, and embrace the chaos. Major slash-commands: /deg start to start a game",
     "InternalName": "EorzeanDegeneracy",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "RepoUrl": "https://github.com/BluntEXE/VelvetRift",
     "ApplicableVersion": "any",
     "Tags": [
@@ -47,8 +47,8 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/BluntEXE/VelvetRift/master/images/eorzean-degeneracy-icon.png",
-    "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip",
-    "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip",
-    "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.1-beta/EorzeanDegeneracy.zip"
+    "DownloadLinkInstall": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.3/EorzeanDegeneracy.zip",
+    "DownloadLinkUpdate": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.3/EorzeanDegeneracy.zip",
+    "DownloadLinkTesting": "https://github.com/BluntEXE/VelvetRift/releases/download/v0.0.3/EorzeanDegeneracy.zip"
   }
 ]
